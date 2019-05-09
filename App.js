@@ -1,9 +1,34 @@
 
 import React, {Component} from 'react';
 import {Platform, StyleSheet, Text, View} from 'react-native';
+    
+//importando class dos Botões
+import InputNumberButton from './InputNumberButton' 
 
-//import InputNumberButton from './inputNumberButton' //importando class dos Botões
+//criando as const dos meus botões
+const buttons = [ 
+  [ 'CLEAR', 'DEL'],
+  [7, 8, 9, '/'],
+  [4, 5, 6, 'x'],
+  [1, 2, 3, '-'],
+  [0, '.', '=', '+']
+];
+
 export default class App extends Component {
+
+  //criando um render para os meus botões
+  renderButtons() {
+    let layouts = buttons.map((buttonRows, index) => {
+      let rowItem = buttonRows.map((buttonItems, buttonIndex) => {
+        return <InputNumberButton
+          value={buttonItems}
+          headleOnpress={() => {}}
+          key={'btn-' + buttonIndex} />
+      });
+      return <View style={styles.inputRow} key={'row-' + index}>{rowItem}</View>
+    });
+    return layouts
+  }
 
   render() {
     return (

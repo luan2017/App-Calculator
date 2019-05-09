@@ -1,4 +1,4 @@
-#Wed May 08 16:31:24 AMT 2019
-base.0=/Users/marcelodias/Documents/WLP/Development/calculadora/android/app/build/intermediates/transforms/dexMerger/debug/0
+#Thu May 09 13:04:06 AMT 2019
+base.0=/Users/marcelodias/Documents/WLP/Development/App-Calculator/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex
