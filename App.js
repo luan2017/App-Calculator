@@ -21,8 +21,6 @@ export default class App extends Component {
     let layouts = buttons.map((buttonRows, index) => {
       let rowItem = buttonRows.map((buttonItems, buttonIndex) => {
         return <InputNumberButton
-          value={buttonItems}
-          headleOnpress={() => {}}
           key={'btn-' + buttonIndex} />
       });
       return <View style={styles.inputRow} key={'row-' + index}>{rowItem}</View>
