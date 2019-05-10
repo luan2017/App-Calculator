@@ -133,7 +133,7 @@
     },
     {
         "merged": "/Users/marcelodias/Documents/WLP/Development/App-Calculator/android/app/build/intermediates/res/merged/debug/layout_redbox_view.xml.flat",
-        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/edb2a23bb3f9ab6b20b9770b5ad0283e/res/layout/redbox_view.xml"
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/ce6cf08b1bca7617f7c8e070111bb0e2/res/layout/redbox_view.xml"
     },
     {
         "merged": "/Users/marcelodias/Documents/WLP/Development/App-Calculator/android/app/build/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
@@ -241,7 +241,7 @@
     },
     {
         "merged": "/Users/marcelodias/Documents/WLP/Development/App-Calculator/android/app/build/intermediates/res/merged/debug/layout_redbox_item_title.xml.flat",
-        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/edb2a23bb3f9ab6b20b9770b5ad0283e/res/layout/redbox_item_title.xml"
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/ce6cf08b1bca7617f7c8e070111bb0e2/res/layout/redbox_item_title.xml"
     },
     {
         "merged": "/Users/marcelodias/Documents/WLP/Development/App-Calculator/android/app/build/intermediates/res/merged/debug/layout_abc_search_view.xml.flat",
@@ -317,7 +317,7 @@
     },
     {
         "merged": "/Users/marcelodias/Documents/WLP/Development/App-Calculator/android/app/build/intermediates/res/merged/debug/anim_catalyst_push_up_in.xml.flat",
-        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/edb2a23bb3f9ab6b20b9770b5ad0283e/res/anim/catalyst_push_up_in.xml"
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/ce6cf08b1bca7617f7c8e070111bb0e2/res/anim/catalyst_push_up_in.xml"
     },
     {
         "merged": "/Users/marcelodias/Documents/WLP/Development/App-Calculator/android/app/build/intermediates/res/merged/debug/layout_abc_action_mode_close_item_material.xml.flat",
@@ -337,7 +337,7 @@
     },
     {
         "merged": "/Users/marcelodias/Documents/WLP/Development/App-Calculator/android/app/build/intermediates/res/merged/debug/anim_catalyst_fade_in.xml.flat",
-        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/edb2a23bb3f9ab6b20b9770b5ad0283e/res/anim/catalyst_fade_in.xml"
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/ce6cf08b1bca7617f7c8e070111bb0e2/res/anim/catalyst_fade_in.xml"
     },
     {
         "merged": "/Users/marcelodias/Documents/WLP/Development/App-Calculator/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
@@ -365,7 +365,7 @@
     },
     {
         "merged": "/Users/marcelodias/Documents/WLP/Development/App-Calculator/android/app/build/intermediates/res/merged/debug/anim_catalyst_fade_out.xml.flat",
-        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/edb2a23bb3f9ab6b20b9770b5ad0283e/res/anim/catalyst_fade_out.xml"
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/ce6cf08b1bca7617f7c8e070111bb0e2/res/anim/catalyst_fade_out.xml"
     },
     {
         "merged": "/Users/marcelodias/Documents/WLP/Development/App-Calculator/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -429,7 +429,7 @@
     },
     {
         "merged": "/Users/marcelodias/Documents/WLP/Development/App-Calculator/android/app/build/intermediates/res/merged/debug/layout_fps_view.xml.flat",
-        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/edb2a23bb3f9ab6b20b9770b5ad0283e/res/layout/fps_view.xml"
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/ce6cf08b1bca7617f7c8e070111bb0e2/res/layout/fps_view.xml"
     },
     {
         "merged": "/Users/marcelodias/Documents/WLP/Development/App-Calculator/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
@@ -457,7 +457,7 @@
     },
     {
         "merged": "/Users/marcelodias/Documents/WLP/Development/App-Calculator/android/app/build/intermediates/res/merged/debug/layout_dev_loading_view.xml.flat",
-        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/edb2a23bb3f9ab6b20b9770b5ad0283e/res/layout/dev_loading_view.xml"
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/ce6cf08b1bca7617f7c8e070111bb0e2/res/layout/dev_loading_view.xml"
     },
     {
         "merged": "/Users/marcelodias/Documents/WLP/Development/App-Calculator/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
@@ -713,7 +713,7 @@
     },
     {
         "merged": "/Users/marcelodias/Documents/WLP/Development/App-Calculator/android/app/build/intermediates/res/merged/debug/anim_catalyst_slide_up.xml.flat",
-        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/edb2a23bb3f9ab6b20b9770b5ad0283e/res/anim/catalyst_slide_up.xml"
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/ce6cf08b1bca7617f7c8e070111bb0e2/res/anim/catalyst_slide_up.xml"
     },
     {
         "merged": "/Users/marcelodias/Documents/WLP/Development/App-Calculator/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
@@ -1101,7 +1101,7 @@
     },
     {
         "merged": "/Users/marcelodias/Documents/WLP/Development/App-Calculator/android/app/build/intermediates/res/merged/debug/layout_redbox_item_frame.xml.flat",
-        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/edb2a23bb3f9ab6b20b9770b5ad0283e/res/layout/redbox_item_frame.xml"
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/ce6cf08b1bca7617f7c8e070111bb0e2/res/layout/redbox_item_frame.xml"
     },
     {
         "merged": "/Users/marcelodias/Documents/WLP/Development/App-Calculator/android/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
@@ -1317,7 +1317,7 @@
     },
     {
         "merged": "/Users/marcelodias/Documents/WLP/Development/App-Calculator/android/app/build/intermediates/res/merged/debug/anim_catalyst_slide_down.xml.flat",
-        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/edb2a23bb3f9ab6b20b9770b5ad0283e/res/anim/catalyst_slide_down.xml"
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/ce6cf08b1bca7617f7c8e070111bb0e2/res/anim/catalyst_slide_down.xml"
     },
     {
         "merged": "/Users/marcelodias/Documents/WLP/Development/App-Calculator/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
@@ -1461,7 +1461,7 @@
     },
     {
         "merged": "/Users/marcelodias/Documents/WLP/Development/App-Calculator/android/app/build/intermediates/res/merged/debug/xml_rn_dev_preferences.xml.flat",
-        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/edb2a23bb3f9ab6b20b9770b5ad0283e/res/xml/rn_dev_preferences.xml"
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/ce6cf08b1bca7617f7c8e070111bb0e2/res/xml/rn_dev_preferences.xml"
     },
     {
         "merged": "/Users/marcelodias/Documents/WLP/Development/App-Calculator/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -1469,7 +1469,7 @@
     },
     {
         "merged": "/Users/marcelodias/Documents/WLP/Development/App-Calculator/android/app/build/intermediates/res/merged/debug/drawable_redbox_top_border_background.xml.flat",
-        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/edb2a23bb3f9ab6b20b9770b5ad0283e/res/drawable/redbox_top_border_background.xml"
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/ce6cf08b1bca7617f7c8e070111bb0e2/res/drawable/redbox_top_border_background.xml"
     },
     {
         "merged": "/Users/marcelodias/Documents/WLP/Development/App-Calculator/android/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
@@ -1601,7 +1601,7 @@
     },
     {
         "merged": "/Users/marcelodias/Documents/WLP/Development/App-Calculator/android/app/build/intermediates/res/merged/debug/anim_catalyst_push_up_out.xml.flat",
-        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/edb2a23bb3f9ab6b20b9770b5ad0283e/res/anim/catalyst_push_up_out.xml"
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/ce6cf08b1bca7617f7c8e070111bb0e2/res/anim/catalyst_push_up_out.xml"
     },
     {
         "merged": "/Users/marcelodias/Documents/WLP/Development/App-Calculator/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",

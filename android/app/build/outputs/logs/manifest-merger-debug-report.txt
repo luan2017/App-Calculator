@@ -5,7 +5,7 @@ INJECTED from /Users/marcelodias/Documents/WLP/Development/App-Calculator/androi
 INJECTED from /Users/marcelodias/Documents/WLP/Development/App-Calculator/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /Users/marcelodias/Documents/WLP/Development/App-Calculator/android/app/src/main/AndroidManifest.xml:1:1-26:12
 MERGED from /Users/marcelodias/Documents/WLP/Development/App-Calculator/android/app/src/main/AndroidManifest.xml:1:1-26:12
-MERGED from [com.facebook.react:react-native:0.59.5] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/edb2a23bb3f9ab6b20b9770b5ad0283e/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.react:react-native:0.59.8] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/ce6cf08b1bca7617f7c8e070111bb0e2/AndroidManifest.xml:2:1-13:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/19d942048b31d23d538d289f4e7e3688/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/337c24faab0c72c6e3fcfa7c068709ab/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/a5309453c7295a619811d06fc6a52aef/AndroidManifest.xml:17:1-22:12
@@ -67,8 +67,8 @@ application
 ADDED from /Users/marcelodias/Documents/WLP/Development/App-Calculator/android/app/src/main/AndroidManifest.xml:6:5-24:19
 MERGED from /Users/marcelodias/Documents/WLP/Development/App-Calculator/android/app/src/main/AndroidManifest.xml:6:5-24:19
 MERGED from /Users/marcelodias/Documents/WLP/Development/App-Calculator/android/app/src/main/AndroidManifest.xml:6:5-24:19
-MERGED from [com.facebook.react:react-native:0.59.5] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/edb2a23bb3f9ab6b20b9770b5ad0283e/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.react:react-native:0.59.5] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/edb2a23bb3f9ab6b20b9770b5ad0283e/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.8] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/ce6cf08b1bca7617f7c8e070111bb0e2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.8] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/ce6cf08b1bca7617f7c8e070111bb0e2/AndroidManifest.xml:11:5-20
 MERGED from [com.android.support:support-compat:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f702e238db2cec94266b8a370738988b/AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:support-compat:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f702e238db2cec94266b8a370738988b/AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:versionedparcelable:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/65e44f9a2b85431d30f5e30f8c54551e/AndroidManifest.xml:22:5-23:19
@@ -129,8 +129,8 @@ uses-sdk
 INJECTED from /Users/marcelodias/Documents/WLP/Development/App-Calculator/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/marcelodias/Documents/WLP/Development/App-Calculator/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/marcelodias/Documents/WLP/Development/App-Calculator/android/app/src/main/AndroidManifest.xml
-MERGED from [com.facebook.react:react-native:0.59.5] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/edb2a23bb3f9ab6b20b9770b5ad0283e/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.59.5] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.5.aar/edb2a23bb3f9ab6b20b9770b5ad0283e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.8] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/ce6cf08b1bca7617f7c8e070111bb0e2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.8] /private/var/root/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/ce6cf08b1bca7617f7c8e070111bb0e2/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/19d942048b31d23d538d289f4e7e3688/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/19d942048b31d23d538d289f4e7e3688/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:28.0.0] /private/var/root/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/337c24faab0c72c6e3fcfa7c068709ab/AndroidManifest.xml:20:5-44

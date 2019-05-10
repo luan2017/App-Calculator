@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu May 09 13:04:07 AMT 2019
+#Fri May 10 07:24:09 AMT 2019
 5.base=/Users/marcelodias/Documents/WLP/Development/App-Calculator/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
 42.base=/Users/marcelodias/Documents/WLP/Development/App-Calculator/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
 22.path=lib/arm64-v8a/libjscexecutor.so
